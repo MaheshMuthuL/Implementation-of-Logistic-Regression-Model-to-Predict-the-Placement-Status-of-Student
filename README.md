@@ -74,17 +74,132 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
+
+1.Placement Data
+
+
+
+
 ![Screenshot (47)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/db957f74-baeb-4d5b-af90-6fb6cffbcc2e)
+
+
+
+ 2.Salary Data
+
+ 
+
 ![Screenshot (48)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/d0e8e5ba-b389-4a6d-aca7-0d8921c68f0e)
+
+
+
+
+3.Checking the null() function
+
+
+
+
+
+
 ![Screenshot (49)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/f9ee445f-723f-4bcb-af64-4c6650794984)
+
+
+
+
+ 4.Data Duplicate
+
+
+
+
+ 
 ![Screenshot (50)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/87fac85d-e25d-4e1c-ae8b-decfc06152e1)
+
+
+
+
+
+ 5.Print Data
+
+
+
+
+ 
 ![Screenshot (51)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/c222bd91-15f3-4c2f-808c-d0bf5c570b26)
+
+
+
+
+
+ 6.Data-status
+
+
+
+ 
 ![Screenshot (52)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/db107eaa-5c7d-4ad2-a482-810dbb3b8a51)
+
+
+
+
+ 7.y_prediction array
+
+
+
+
+ 
 ![Screenshot (53)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/6e23680a-570b-410b-b5bf-eb00cd489689)
+
+
+
+
+
+8.Accuracy Value
+
+
+
+
+
 ![Screenshot (54)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/f6d4f7b6-81a7-41d5-a1c9-4cbc08cb17fa)
+
+
+
+
+
+
+ 9.Confusion Array
+
+
+
+
+
+ 
 ![Screenshot (55)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/b2748076-f9fa-4aa9-9d7b-b8d175cc3d10)
+
+
+
+
+10.Classification Report
+
+
+
+
+
 ![Screenshot (56)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/4cfde0fa-6aae-4184-bb3f-d057535f10b2)
+
+
+
+
+
+
 ![Screenshot (57)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/34c167a6-c0e3-4ca5-b327-90d703c82914)
+
+
+
+
+
+11.Prediction of LR
+
+
+
+
 ![Screenshot (58)](https://github.com/MaheshMuthuL/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/135570619/24d607e0-5123-4808-9253-58a1d8b5d80f)
 
 
